@@ -21,3 +21,7 @@ Almost every company that sells products or services stores data of shopping. Th
 - Frequency: Total number of purchases the customer were made;
 - Monetary Value: Total money the customer spent per order.
 
+## Project contains:
+- **Part 1**: First approach - **Customer_segmentation.ipynb**
+- **Part 2**: Second approach - **Segmentation_Kmeans.ipynb**
+- Python script with customer segmentation - **customers_segments.py**
