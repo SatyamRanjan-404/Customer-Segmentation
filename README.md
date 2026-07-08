@@ -25,3 +25,18 @@ Almost every company that sells products or services stores data of shopping. Th
 - **Part 1**: First approach - **Customer_segmentation.ipynb**
 - **Part 2**: Second approach - **Segmentation_Kmeans.ipynb**
 - Python script with customer segmentation - **customers_segments.py**
+
+## Technologies
+
+The project is created with:
+
+- Python 3.6
+- libraries: pandas, numpy, sklearn, scipy, seaborn, matplotlib.
+
+**Running the project:**
+
+To run this project use Jupyter Notebook or Google Colab.
+
+You can run the scripts in the terminal:
+
+    customers_segments.py
